@@ -71,7 +71,7 @@ We learnt the importance of these statements.
 ### Aim :
 To study and implement C++ decision making statements 
 
-## Theory :
+### Theory :
 switch statement
 A ‘switch’ statement allows a variable to be tested for equality against a list of values.
 

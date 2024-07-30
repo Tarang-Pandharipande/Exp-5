@@ -55,7 +55,8 @@ int  num;
 
 }
 ```
-### Output 
+### Output :
+![Screenshot 2024-07-30 154110](https://github.com/user-attachments/assets/3a342964-2215-443f-ae7c-6ee51f756538)
 ### Explanation :
 This C++ code shows how to use if, else, and else if statements. It first checks if x is greater than y and prints a message. 
 Then, it checks if time is less than 18, printing "Good day" if true, otherwise printing "Good evening." 
@@ -111,3 +112,11 @@ int main() {
     }
 }
 ```
+### Output :
+
+### Explanation :
+This C++ code uses a switch statement to display the name of a day based on the user's input. The user enters a number from 1 to 7, and the program prints the corresponding day of the week.
+If the input is outside this range, it prints "Wrong Input."
+
+### Conclusion :
+Learnt about switch and break statement 

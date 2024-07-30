@@ -113,7 +113,7 @@ int main() {
 }
 ```
 ### Output :
-
+![Screenshot 2024-07-30 154001](https://github.com/user-attachments/assets/ad42f5c3-b902-405e-a38f-f6b602525361)
 ### Explanation :
 This C++ code uses a switch statement to display the name of a day based on the user's input. The user enters a number from 1 to 7, and the program prints the corresponding day of the week.
 If the input is outside this range, it prints "Wrong Input."
